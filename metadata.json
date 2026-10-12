@@ -1,0 +1,6 @@
+{
+  "name": "QuantStack Terminal",
+  "description": "BIST, Kripto, ABD Borsaları, Kıymetli Madenler ve TEFAS için Kurumsal Stacking Ensemble ML, Risk Paritesi ve Walk-Forward Backtest Terminali",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
